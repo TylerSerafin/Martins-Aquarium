@@ -5,4 +5,3 @@ import FishList from './Fish/FishList.js'
 // initializeDetailButtonEvents()
 
 FishList()
-
