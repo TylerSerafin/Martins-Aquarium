@@ -22,12 +22,12 @@ const fishCollection = [
         image: "https://3.imimg.com/data3/IW/XT/GLADMIN-105863/fish-125x125.jpg"
     },
     {
-        length: "2 in",
+        name: "Nemo",
         species: "Clownfish",
-        food: ["Plankton"],
         location: "Great Barrier Reef",
+        length: "2 in",
+        food: ["Plankton"],
         image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7xhhlta3q-wVKpgzGdTlpAHaFj%26pid%3DApi&f=1",
-        name: "Nemo"
     },
     {
         name: "Dory",
